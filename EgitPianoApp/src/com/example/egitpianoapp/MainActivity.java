@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//commit by Joe Wocken
+//commit by Joe Wocken 2
 
 public class MainActivity extends ActionBarActivity {
 
